@@ -40,7 +40,7 @@ Los textos están en `strings.xml`y los colores en `colors.xml`.
 
 - Android Studio (versión reciente)
 - JDK 21
-- Android SDK con `minSdk` XZ
+- Android SDK con `minSdk` 27
 
 **Pasos**
 
