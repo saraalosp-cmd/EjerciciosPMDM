@@ -1,4 +1,4 @@
-# 📊 ProfileYou - Perfil de usuario
+# 👤 ProfileYou - Perfil de usuario
 
 Aplicación Android desarrollada en Kotlin para la asignatura **Programación Multimedia y Dispositivos Móviles (PMDM)** del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
