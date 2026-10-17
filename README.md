@@ -13,7 +13,7 @@ Repositorio con los ejercicios de la asignatura **Programación Multimedia y Dis
 | Proyecto | Descripción |
 | --- | --- |
 | [Estadísticas](Estadisticas) | Contadores de personas y vehículos con porcentajes y botones que se deshabilitan.
-| [Perfil](ProfileYou) | Perfil de usuario con botón que alterna seguir/dejar de seguir, likes que cambian de color y contador de mensajes que se incrementa.
+| [ProfileYou](ProfileYou) | Perfil de usuario con botón que alterna seguir/dejar de seguir, likes que cambian de color y contador de mensajes que se incrementa.
 
 ## ▶️ Cómo abrir un proyecto
 
@@ -24,6 +24,7 @@ Cada carpeta es un proyecto de Android Studio independiente:
 3. Espera a que Gradle sincronice y ejecuta con ▶️**Run**.
 
 **Requisitos:** Android Studio (versión reciente) y JDK 21
+
 
 👩‍💻 Autora
 Sara Alós Plaza - 2º DAM <2026/2027>
