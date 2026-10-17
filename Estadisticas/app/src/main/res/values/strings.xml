@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Estadísticas</string>
+    <string name="titulo">Estadísticas UD3</string>
+    <string name="total">Total: %1$d</string>
+    <string name="totalPersonas">%1$d</string>
+    <string name="totalPatinetes">%1$d</string>
+    <string name="totalBicicletas">%1$d</string>
+    <string name="totalCoches">%1$d</string>
+    <string name="restart">Reiniciar todos</string>
+    <string name="personas">Personas: </string>
+    <string name="patinetes">Patinetes: </string>
+    <string name="bicis">Bicicletas: </string>
+    <string name="coches">Coches: </string>
+    <string name="reset">Reset </string>
+    <string name="añadir">+1</string>
+    <string name="restar">-1</string>
+    <string name="resulPersonas">Personas: %1$d %%</string>
+    <string name="resulPatinetes">Patinetes: %1$d %%</string>
+    <string name="resulBicis">Bicicletas: %1$d %%</string>
+    <string name="resulCoches">Coches: %1$d %%</string>
+</resources>

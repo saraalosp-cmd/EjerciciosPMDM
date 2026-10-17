@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sage">#5B8C7A</color>
+    <color name="clay">#B9776B</color>
+    <color name="slate">#5F7A8C</color>
+    <color name="disabled_container">#E4E7E5</color>
+    <color name="disabled_content">#9B43A0</color>
+    <color name="card">#FFFFFF</color>
+    <color name="background">#F5F7F4</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_700">#FF616161</color>
+</resources>

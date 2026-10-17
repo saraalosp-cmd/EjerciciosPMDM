@@ -1,0 +1,24 @@
+# Gradle y archivos generados
+.gradle/
+**/build/
+**/bin/
+**/out/
+/captures
+*.class
+*.log
+
+# Android Studio / IDEs
+*.iml
+.idea/
+local.properties
+.externalNativeBuild/
+.cxx/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Instaladores generados
+*.apk
+*.aab
