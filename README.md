@@ -13,7 +13,7 @@ Repositorio con los ejercicios de la asignatura **Programación Multimedia y Dis
 | Proyecto | Descripción |
 | --- | --- |
 | [Estadísticas](Estadisticas) | Contadores de personas y vehículos con porcentajes y botones que se deshabilitan.
-| [Perfil] (ProfileYou) | 
+| [Perfil](ProfileYou) | Perfil de usuario con botón que alterna seguir/dejar de seguir, likes que cambian de color y contador de mensajes que se incrementa.
 
 ## ▶️ Cómo abrir un proyecto
 
