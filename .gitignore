@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Configuración local (rutas de tu SDK, no se comparte)
+local.properties
+
+# Capturas y compilados nativos
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos generados
+*.apk
+*.aab
+
+# Sistema
+.DS_Store
+Thumbs.db
