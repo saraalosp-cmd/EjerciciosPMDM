@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProfileYou</string>
+    <string name="okarun">Okarun</string>
+    <string name="nombre">Ken Takakura</string>
+    <string name="seguir">Follow</string>
+    <string name="dejarSeguir">Unfollow</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="hobbie1">Investigar fenómenos paranormales</string>
+    <string name="hobbie2">Los extraterrestres y los ovnis</string>
+    <string name="hobbie3">Leyendas urbanas</string>
+    <string name="hobbie4">Misterio</string>
+    <string name="hobbie5">Artes marciales</string>
+    <string name="add">+%d</string>
+    <string name="mensajes">%d</string>
+</resources>
