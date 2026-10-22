@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="moradoOscuro">#6650A4</color>
+    <color name="fondo">#FEF7FF</color>
+    <color name="amarillo">#FAC03D</color>
+    <color name="azul">#FF1E2A44</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_700">#FF616161</color>
+</resources>

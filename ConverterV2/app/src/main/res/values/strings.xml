@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConverterV2</string>
+    <string name="turbo">Turbo Granny</string>
+    <string name="nombre">Turbo Abuela</string>
+    <string name="introduce">Introduce un número entero</string>
+    <string name="numero">Número a convertir</string>
+    <string name="aDec">A decimal</string>
+    <string name="aBin">A binario</string>
+    <string name="conver">Conversión:</string>
+    <string name="convertir">Convertir</string>
+    <string name="borrar">Borrar</string>
+    <string name="resul">%s</string>
+</resources>
