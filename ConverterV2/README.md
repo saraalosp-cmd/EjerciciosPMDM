@@ -1,12 +1,12 @@
-🔄 ProfileYou - Perfil de usuario
+# 🔄 ConverterV2 - Conversor a binario
 
 Aplicación Android desarrollada en Kotlin para la asignatura Programación Multimedia y Dispositivos Móviles (PMDM) del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-📃 Descripción
+## 📃 Descripción
 
 La aplicación permite realizar conversiones numéricas entre sistemas decimal y binario, mostrando además un teclado para introducir el número a convertir.
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 - Foto de perfil circular con borde de color
 - Nombre de usuario
@@ -17,7 +17,7 @@ La aplicación permite realizar conversiones numéricas entre sistemas decimal y
 - El botón de conversión permanece deshabilitado si no hay número a convertir.
 - El botón de borrado permanece deshabilitado si no hay número a convertir ni resultado.
 
-🛠️ Tecnologías
+## 🛠️ Tecnologías
 
 - Kotlin
 - Jetpack Compone + Material 3
@@ -27,15 +27,15 @@ La aplicación permite realizar conversiones numéricas entre sistemas decimal y
 - `Switch`y `Card` para el selector interactivo
 
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Practicar el diseño de interfaces Android con Compose combinando los componentes básicos (`Column`, `Row`, `Image`, `Text`, `Button`, `TextField`, `Switch`, `Card`), la gestión del estado y la implementación de lógica de conversión matemática entre bases numéricas.
 
-🗂️ Estructura del proyecto
+### 🗂️ Estructura del proyecto
 
 La lógica está en la función composable HomeScreen. Los textos están en strings.xml, los colores en colors.xml y las imágenes en la carpeta res/drawable.
 
-▶️ Cómo ejecutarlo
+## ▶️ Cómo ejecutarlo
 
 Requisitos
 
@@ -52,7 +52,7 @@ Pasos
     Selecciona un emulador Android o conecta un dispositivo físico con la depuración USB activada.
     Pulsa el botón ▶️ Run de Android Studio para compilar y ejecutar la aplicación.
 
-📱 Capturas de pantalla
+### 📱 Capturas de pantalla
 
 | Sin datos | A binario | A decimal
 | --- | --- |
