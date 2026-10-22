@@ -54,8 +54,8 @@ Pasos
 
 ### 📱 Capturas de pantalla
 
-| Sin datos | A binario | A decimal
-| --- | --- |
+| Sin datos | A binario | A decimal |
+| --- | --- | --- |
 |![Sin datos](screenshots/sinDatos.png) | ![A binario](screenshots/aBinario.png)| ![A decimal](screenshots/aDecimal.png)
 
 ### 👩‍💻 Autora
