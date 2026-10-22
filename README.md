@@ -14,6 +14,7 @@ Repositorio con los ejercicios de la asignatura **Programación Multimedia y Dis
 | --- | --- |
 | [Estadísticas](Estadisticas) | Contadores de personas y vehículos con porcentajes y botones que se deshabilitan.
 | [ProfileYou](ProfileYou) | Perfil de usuario con botón que alterna seguir/dejar de seguir, likes que cambian de color y contador de mensajes que se incrementa.
+| [ConverterV2](ConverterV2) | Conversor numérico entre decimal y binario con switch selector.
 
 ## ▶️ Cómo abrir un proyecto
 
