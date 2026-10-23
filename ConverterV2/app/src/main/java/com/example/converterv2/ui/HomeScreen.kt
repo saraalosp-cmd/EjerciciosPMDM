@@ -120,7 +120,7 @@ fun HomeScreen(modifier: Modifier = Modifier) {
                 }
             },
             label = {Text(stringResource(id= R.string.numero))},
-            trailingIcon = {
+            leadingIcon = {
                 Icon (
                     imageVector = Icons.Default.Tag,
                     contentDescription = "Tag"
