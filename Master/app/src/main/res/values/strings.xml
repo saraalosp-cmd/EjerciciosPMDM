@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Master</string>
+    <string name="by">by Gege Akutami</string>
+    <string name="edad">Edad:</string>
+    <string name="genero">Género:</string>
+    <string name="especie">Especie:</string>
+    <string name="info">INFORMACIÓN</string>
+    <string name="select">Selecciona un personaje de la lista</string>
+    <string name="perfil">Jujutsu Kaisen</string>
+</resources>
