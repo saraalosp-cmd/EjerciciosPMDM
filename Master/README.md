@@ -36,22 +36,15 @@ Practicar el diseño de interfaces Android con Compose combinando listas, detall
 
 La interfaz se divide en composables, cada uno con una única responsabilidad:
 
-| **Composable** | **Función** |
-| **---** | **---** |
+| Composable | Función |
+| --- | --- |
 | `HomeScreen` | Pantalla principal. Guarda el estado (`seleccionada`, `mostrarInfo`) y organiza el resto. |
-| --- | --- |
 | `HomeTopBar` | Barra superior con los dos logos. |
-| --- | --- |
 | `CharacterList` | Lista agrupada por inicial con cabeceras fijas y marca de selección. |
-| --- | --- |
 | `CharacterDetail` | Detalle del personaje seleccionado. |
-| --- | --- |
 | `InfoRow` | Fila con etiqueta y valor (Edad, Género, Especie). |
-| --- | --- |
 | `EmptyDetail` | Tarjeta que se muestra si no hay personaje seleccionado. |
-| --- | --- |
 | `Profile` | Ventana de perfil que abre el botón flotante. |
-| --- | --- |
 
 Los datos de los personajes están en la clase `Character` (`id`, `nombre`, `real`, `imagen`, `edad`, `genero`, `especie`, `info`), dentro del paquete `model`. Los textos están en `strings.xml`, los colores en `colors.xml` y las imágenes en la carpeta `res/drawable`.
 
@@ -75,11 +68,8 @@ Los datos de los personajes están en la clase `Character` (`id`, `nombre`, `rea
 ### 📱 Capturas de pantalla
 
 | Sin selección | ![Sin selección](screenshots/sinSelecc.png) |
-| --- | --- |
 | Personaje seleccionado | ![Personaje seleccionado](screenshots/pj.png) |
-| --- | --- |
 | Ventana de perfil | ![Ventana de perfil](screenshots/profile.png) |
-| --- | --- |
 
 ### 👩‍💻 Autora
 Sara Alós Plaza - 2º DAM <2026/2027>
