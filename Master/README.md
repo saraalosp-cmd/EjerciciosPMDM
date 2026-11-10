@@ -69,9 +69,9 @@ Los datos de los personajes están en la clase `Character` (`id`, `nombre`, `rea
 
 | Pantalla | Captura |
 | --- | --- |
-| Sin selección | ![Sin selección](<img src="screenshots/sinSelecc.png" width="500">) |
-| Personaje seleccionado | ![Personaje seleccionado](<img src="screenshots/pj.png" width="500">) |
-| Ventana de perfil | ![Ventana de perfil](<img src="screenshots/profile.png" width="500">) |
+| Sin selección | ![Sin selección](screenshots/sinSelecc.png) |
+| Personaje seleccionado | ![Personaje seleccionado](screenshots/pj.png) |
+| Ventana de perfil | ![Ventana de perfil](screenshots/profile.png) |
 
 ### 👩‍💻 Autora
 Sara Alós Plaza - 2º DAM <2026/2027>
