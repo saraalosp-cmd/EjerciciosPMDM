@@ -3,6 +3,7 @@ package com.example.profileyou.ui
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.gestures.snapping.SnapPosition
 import androidx.compose.foundation.layout.Arrangement
@@ -88,6 +89,7 @@ fun HomeScreen(modifier: Modifier = Modifier) {
                         BorderStroke(borderWidth, colorResource(id= R.color.rojo)),
                         CircleShape
                     )
+                    .background(colorResource(id=R.color.perfil), CircleShape)
                     .padding(borderWidth)
                     .clip(CircleShape)
             )
