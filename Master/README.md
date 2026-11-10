@@ -67,6 +67,8 @@ Los datos de los personajes están en la clase `Character` (`id`, `nombre`, `rea
 
 ### 📱 Capturas de pantalla
 
+| Pantalla | Captura |
+| --- | --- |
 | Sin selección | ![Sin selección](screenshots/sinSelecc.png) |
 | Personaje seleccionado | ![Personaje seleccionado](screenshots/pj.png) |
 | Ventana de perfil | ![Ventana de perfil](screenshots/profile.png) |
